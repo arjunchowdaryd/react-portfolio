@@ -34,7 +34,7 @@ class Projects extends Component {
 
           {/* Project 2 */}
           <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-          <img src={beach} color= '#fff' height= '265px'/>
+          <img src={beach} color= '#fff' height= '259px'/>
             <CardText>
             <h5>project2</h5>
               <p>Beach-resort</p>
