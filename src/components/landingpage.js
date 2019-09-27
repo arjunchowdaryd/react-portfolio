@@ -15,11 +15,10 @@ class Landing extends Component {
               />
 
             <div className="banner-text">
-              <h1>Full Stack Web Developer</h1>
-
+              <h1>MERN Full Stack Web Developer</h1>
             <hr/>
 
-          <p>HTML/CSS,SASS| Bootstrap| JavaScript | React | React & Angular Material design | Angular8  NodeJS | Express | MongoDB</p>
+          <p>HTML/CSS/SASS| Bootstrap | JavaScript | React | React & Angular Material design | Angular8  NodeJS | Express | MongoDB</p>
 
         <div className="social-links">
 
@@ -31,11 +30,6 @@ class Landing extends Component {
           {/* Github */}
           <a href="https://github.com/arjunchowdaryd" rel="noopener noreferrer" target="_blank">
             <i className="fa fa-github-square" aria-hidden="true" />
-          </a>
-
-          {/* Freecodecamp */}
-          <a href="http://google.com" rel="noopener noreferrer" target="_blank">
-            <i className="fa fa-free-code-camp" aria-hidden="true" />
           </a>
          </div>
             </div>

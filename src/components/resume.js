@@ -5,7 +5,6 @@ import Experience from './experience';
 import Skills from './skills';
 import arjun from './assets/arjun.jpg'
 
-
 class Resume extends Component {
   render() {
     return(
@@ -19,28 +18,27 @@ class Resume extends Component {
                 className="avatar-img"
                  />
             </div>
-
             <h2 style={{paddingTop: '2em'}}>Dabbara Nagarjuna</h2>
             <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
             <h4 style={{color: 'grey'}}>Full-Stack Developer</h4>
             <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
-          <h5> I am interested in IT and everything in its orbit.<br/> 
+          <h6> I am interested in IT and everything in its orbit.<br/> 
               I recently began to be fascinated by web programming, e.g.building websites.<br/> 
                Invited to join my uncle's start-up company as a Full-Stack Developer,<br/>  I gained experience of working in this area.<br/>  
             As this area complements my studies, I am keen to gain more experience <br/>  in the field. For this reason, I am looking for a company willing 
-             to offer me a placement among their developers.<br/>  In return, I would offer my full commitment, and be a pleasant and friendly addition to your team.</h5>
+             to offer me a placement among their developers.<br/>  In return, I would offer my full commitment, and be a pleasant and friendly addition to your team.</h6>
              <br/>
             <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
             
             <h3 style={{color: 'grey'}}>Additional skills</h3>
             <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
            <h3></h3>
-           <h3>VCS:Github</h3>
-           <h3>Buliders:webpack,Gulp</h3>
-           <h3>Services:Heroku,AWS</h3>
-           <h3>Testing:Jest,Mocha,Karma</h3>
-           <h3>OS:linux,windows</h3>
-           <h3>c language</h3>
+           <h5>VCS:GitHub</h5>
+           <h5>Buliders:Webpack and Gulp</h5>
+           <h5>Services:Heroku and AWS</h5>
+           <h5>Testing:Jest, Mocha, Karma and Cypress</h5>
+           <h5>OS:linux and Windows</h5>
+           <h5>JavaScript & C language</h5>
             <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
            
            

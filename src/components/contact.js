@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import { Grid, Cell, List, ListItem, ListItemContent } from 'react-mdl';
 
-
 class Contact extends Component {
   render() {
     return(
@@ -14,11 +13,10 @@ class Contact extends Component {
               alt="avatar"
               style={{height: '250px'}}
                />
-             <p style={{ width: '75%', margin: 'auto', paddingTop: '1em'}}>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries</p>
-
+             <p style={{ width: '75%', margin: 'auto', paddingTop: '1em'}}> Nagarjuna is seasoned professional as a full stack developer with frontend techologies in ReactJS/Redux, Angular JS, Node JS, Express, MongoDB, Bootstrap, Webpack, ES7 and HTML&CSS</p>
           </Cell>
           <Cell col={6}>
-            <h2>Contact Me</h2>
+            <h2>Contact me</h2>
             <hr/>
 
             <div className="contact-list">
