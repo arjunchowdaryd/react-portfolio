@@ -24,7 +24,7 @@ class Projects extends Component {
             </CardText>
             <CardActions border>
               <Button colored>GitHub</Button>
-              <Button colored>CodePen</Button>
+       
               <a target="_blank" href="https://ananyaeliteproject.herokuapp.com"><Button colored> visitSite</Button></a>
             </CardActions>
             <CardMenu style={{color: '#fff'}}>
@@ -41,7 +41,7 @@ class Projects extends Component {
             </CardText>
             <CardActions border>
               <Button colored>GitHub</Button>
-              <Button colored>CodePen</Button>
+       
               <a target="_blank" href="https://beachproject.herokuapp.com"><Button colored> visitSite</Button></a>
             </CardActions>
             <CardMenu style={{color: '#fff'}}>
@@ -57,8 +57,7 @@ class Projects extends Component {
             </CardText>
             <CardActions border>
               <Button colored>GitHub</Button>
-              <Button colored>CodePen</Button>
-              <Button colored> visitSite</Button>
+              <Button colored>Visit Site</Button>
             </CardActions>
             <CardMenu style={{color: '#fff'}}>
               <IconButton name="share" />
@@ -72,8 +71,7 @@ class Projects extends Component {
             </CardText>
             <CardActions border>
               <Button colored>GitHub</Button>
-              <Button colored>CodePen</Button>
-              <Button colored> visitSite</Button>
+              <Button colored>Visit Site</Button>
             </CardActions>
             <CardMenu style={{color: '#fff'}}>
               <IconButton name="share" />
@@ -94,7 +92,6 @@ class Projects extends Component {
           </CardText>
           <CardActions border>
             <Button colored>GitHub</Button>
-            <Button colored>CodePen</Button>
             <Button colored> visitSite</Button>
           </CardActions>
           <CardMenu style={{color: '#fff'}}>
@@ -110,8 +107,7 @@ class Projects extends Component {
           </CardText>
           <CardActions border>
             <Button colored>GitHub</Button>
-            <Button colored>CodePen</Button>
-            <Button colored> visitSite</Button>
+            <Button colored>Visit Site</Button>
           </CardActions>
           <CardMenu style={{color: '#fff'}}>
             <IconButton name="share" />
@@ -126,8 +122,7 @@ class Projects extends Component {
           </CardText>
           <CardActions border>
             <Button colored>GitHub</Button>
-            <Button colored>CodePen</Button>
-            <Button colored> visitSite</Button>
+     
           </CardActions>
           <CardMenu style={{color: '#fff'}}>
             <IconButton name="share" />
@@ -141,7 +136,7 @@ class Projects extends Component {
           </CardText>
           <CardActions border>
             <Button colored>GitHub</Button>
-            <Button colored>CodePen</Button>
+     
             <Button colored> visitSite</Button>
           </CardActions>
           <CardMenu style={{color: '#fff'}}>
@@ -161,7 +156,7 @@ class Projects extends Component {
           </CardText>
           <CardActions border>
             <Button colored>GitHub</Button>
-            <Button colored>CodePen</Button>
+     
             <Button colored> visitSite</Button>
           </CardActions>
           <CardMenu style={{color: '#fff'}}>
@@ -177,7 +172,7 @@ class Projects extends Component {
           </CardText>
           <CardActions border>
             <Button colored>GitHub</Button>
-            <Button colored>CodePen</Button>
+     
             <Button colored> visitSite</Button>
           </CardActions>
           <CardMenu style={{color: '#fff'}}>
@@ -193,7 +188,7 @@ class Projects extends Component {
           </CardText>
           <CardActions border>
             <Button colored>GitHub</Button>
-            <Button colored>CodePen</Button>
+     
             <Button colored> visitSite</Button>
           </CardActions>
           <CardMenu style={{color: '#fff'}}>
@@ -208,7 +203,7 @@ class Projects extends Component {
           </CardText>
           <CardActions border>
             <Button colored>GitHub</Button>
-            <Button colored>CodePen</Button>
+     
             <Button colored> visitSite</Button>
           </CardActions>
           <CardMenu style={{color: '#fff'}}>
@@ -228,7 +223,7 @@ class Projects extends Component {
           </CardText>
           <CardActions border>
             <Button colored>GitHub</Button>
-            <Button colored>CodePen</Button>
+     
             <Button colored> visitSite</Button>
           </CardActions>
           <CardMenu style={{color: '#fff'}}>
@@ -244,7 +239,7 @@ class Projects extends Component {
           </CardText>
           <CardActions border>
             <Button colored>GitHub</Button>
-            <Button colored>CodePen</Button>
+     
             <Button colored> visitSite</Button>
           </CardActions>
           <CardMenu style={{color: '#fff'}}>
@@ -260,7 +255,7 @@ class Projects extends Component {
           </CardText>
           <CardActions border>
             <Button colored>GitHub</Button>
-            <Button colored>CodePen</Button>
+     
             <Button colored> visitSite</Button>
           </CardActions>
           <CardMenu style={{color: '#fff'}}>
@@ -275,7 +270,7 @@ class Projects extends Component {
           </CardText>
           <CardActions border>
             <Button colored>GitHub</Button>
-            <Button colored>CodePen</Button>
+     
             <Button colored> visitSite</Button>
           </CardActions>
           <CardMenu style={{color: '#fff'}}>
