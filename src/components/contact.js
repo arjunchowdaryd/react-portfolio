@@ -13,7 +13,7 @@ class Contact extends Component {
               alt="avatar"
               style={{height: '250px'}}
                />
-             <p style={{ width: '75%', margin: 'auto', paddingTop: '1em'}}> Nagarjuna is seasoned professional as a full stack developer with frontend techologies in ReactJS/Redux, Angular JS, Node JS, Express, MongoDB, Bootstrap, Webpack, ES7 and HTML&CSS</p>
+             <p style={{ width: '75%', margin: 'auto', paddingTop: '1em'}}> Nagarjuna Dabbara is seasoned professional as a full stack developer with frontend techologies in ReactJS/Redux, Angular JS, Node JS, Express, MongoDB, Bootstrap, Webpack, ES7 and HTML&CSS</p>
           </Cell>
           <Cell col={6}>
             <h2>Contact me</h2>
