@@ -13,7 +13,7 @@ class Contact extends Component {
               alt="avatar"
               style={{height: '250px'}}
                />
-             <p style={{ width: '75%', margin: 'auto', paddingTop: '1em'}}> Nagarjuna is seasoned professional as a full stack developer with frontend techologies in ReactJS/Redux, Angular JS, Node JS, Express, MongoDB, Bootstrap, Webpack, ES7 and HTML&CSS</p>
+             <p style={{ width: '75%', margin: 'auto', paddingTop: '1em'}}> Nagarjuna is seasoned professional as a full stack developer with ReactJS/Redux, Angular JS, Node JS, Express, MongoDB, Bootstrap, Webpack, ES7 and HTML&CSS</p>
           </Cell>
           <Cell col={6}>
             <h2>Contact me</h2>
@@ -22,28 +22,28 @@ class Contact extends Component {
             <div className="contact-list">
               <List>
                 <ListItem>
-                  <ListItemContent style={{fontSize: '30px', fontFamily: 'Anton'}}>
+                  <ListItemContent style={{fontSize: '20px', fontFamily: 'Anton'}}>
                     <i className="fa fa-phone-square" aria-hidden="true"/>
                     +91-9381563895
                   </ListItemContent>
                 </ListItem>
 
                 <ListItem>
-                  <ListItemContent style={{fontSize: '30px', fontFamily: 'Anton'}}>
+                  <ListItemContent style={{fontSize: '20px', fontFamily: 'Anton'}}>
                     <i className="fa fa-fax" aria-hidden="true"/>
                    +91-6300186821
                   </ListItemContent>
                 </ListItem>
 
                 <ListItem>
-                  <ListItemContent style={{fontSize: '30px', fontFamily: 'Anton'}}>
+                  <ListItemContent style={{fontSize: '20px', fontFamily: 'Anton'}}>
                     <i className="fa fa-envelope" aria-hidden="true"/>
-                  arjunchowdary335@gmail.com
+                           arjunchowdary335@gmail.com
                   </ListItemContent>
                 </ListItem>
 
                 <ListItem>
-                  <ListItemContent style={{fontSize: '30px', fontFamily: 'Anton'}}>
+                  <ListItemContent style={{fontSize: '20px', fontFamily: 'Anton'}}>
                   <a href="https://www.linkedin.com/in/nagarjuna-chowdary-525451194/" rel="noopener noreferrer" target="_blank">
             <i className="fa fa-linkedin-square" aria-hidden="true" /> linkedin
           </a>
