@@ -18,7 +18,7 @@ class Landing extends Component {
               <h1>MERN Full Stack Web Developer</h1>
             <hr/>
 
-          <p>HTML/CSS/SASS| Bootstrap | JavaScript | React | React & Angular Material design | Angular8  NodeJS | Express | MongoDB</p>
+          <p>HTML/CSS | SASS | Bootstrap | JavaScript | React | React & Angular Material design | Angular8  NodeJS | Express | MongoDB</p>
 
         <div className="social-links">
 
