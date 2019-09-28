@@ -23,7 +23,7 @@ class Resume extends Component {
             <h4 style={{color: 'grey'}}>Full-Stack Developer</h4>
             <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
           <h6> I am interested in IT and everything in its orbit.<br/> 
-              I recently began to be fascinated by web programming, e.g.building websites.<br/> 
+              I recently began to be fascinated by web programming, e.g.building ReactJS websites.<br/> 
                Invited to join my uncle's start-up company as a Full-Stack Developer,<br/>  I gained experience of working in this area.<br/>  
             As this area complements my studies, I am keen to gain more experience <br/>  in the field. For this reason, I am looking for a company willing 
              to offer me a placement among their developers.<br/>  In return, I would offer my full commitment, and be a pleasant and friendly addition to your team.</h6>
