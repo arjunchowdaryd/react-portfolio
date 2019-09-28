@@ -38,7 +38,7 @@ class Resume extends Component {
            <h5>Services:Heroku and AWS</h5>
            <h5>Testing:Jest, Mocha, Karma and Cypress</h5>
            <h5>OS:linux and Windows</h5>
-           <h5>JavaScript & C language</h5>
+           <h5>C language</h5>
             <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
            
            
